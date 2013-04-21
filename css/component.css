@@ -146,7 +146,7 @@
 
 /* Grid */
 .rb-grid li:nth-child(1) { background: url("http://newsoaxaca.com/fotos/octubre/19_OCTUBRE/nasa_yucatan.jpg"); }
-.rb-grid li:nth-child(2) { background: #33CCCC; }
+.rb-grid li:nth-child(2) { background: url("http://www.zastavki.com/pictures/1600x1200/2009/Space_Manned_planet_015184_.jpg"); background-size:cover }
 .rb-grid li:nth-child(3) { background: #996699; }
 .rb-grid li:nth-child(4) { background: #C24747; }
 .rb-grid li:nth-child(5) { background: #e2674a; }
