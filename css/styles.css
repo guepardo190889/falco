@@ -2,6 +2,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
+<<<<<<< HEAD
 /*body {
 	background-image:url(../images/bg.jpg);
 	font-family:Arial, Helvetica, sans-serif;
@@ -166,11 +167,13 @@ ul.dropdown li a:hover{
 	letter-spacing: -1px;
 }
 
+=======
+>>>>>>> cambio de imagen...
 #jqb_object .jqb_slide{
 	position:absolute;
 	width:100%; height:250px; 
-	font-family: Arial, Verdana, Sans-Serif;
-	font-weight: bold;
+/*	font-family: Arial, Verdana, Sans-Serif;
+	font-weight: bold; */
 	font-size: 18px;
 	letter-spacing: -1px;
 	text-align: left;
@@ -180,44 +183,6 @@ ul.dropdown li a:hover{
 	position:absolute;
 	padding: 2px 10px 2px 10px;
 	float: left;
-}
-
-#jqb_object .jqb_btn{
-	width: 15px; height: 14px;
-	margin: 10px 5px 2px 2px;
-	float: right;
-}
-#jqb_object .jqb_btn_next{
-	background-image:url(../img/btn_next.gif);
-}
-#jqb_object .jqb_btn_prev{
-	background-image:url(../img/btn_prev.gif);
-}
-#jqb_object .jqb_btn_pause{
-	background-image:url(../img/btn_stop.gif);
-}
-#jqb_object .jqb_btn_play{
-	background-image:url(../img/btn_play.gif);
-}
-
-
-/* inicia Pie */
-#cuadro1{float:left;width:330px;height:230px;
-background-image:url(../images/img_footer1.jpg);
-background-repeat:no-repeat;
-background-position:bottom;
-}
-
-#cuadro2{float:left;width:330px;height:230px;
-background-image:url(../images/img_footer2.jpg);
-background-repeat:no-repeat;
-background-position:bottom;
-}
-
-#cuadro3{float:left;width:330px;height:230px;
-background-image:url(../images/img_footer3.jpg);
-background-repeat:no-repeat;
-background-position:bottom;
 }
 
 
@@ -232,6 +197,12 @@ background-position:bottom;
 	padding-left:5px;
 	}
 
+<<<<<<< HEAD
 /*#cuadroNegro H1{
 	
 	font-size:18px;color:#FFF;}*/
+=======
+#cuadroNegro H1{	
+	font-size:18px;color:#FFF;
+}
+>>>>>>> cambio de imagen...
